@@ -4,9 +4,12 @@ run the program in google colab/or any python ide.
 then follow these below steps:
 
 # OUTPUT
-Enter the no of instruction lines : 2
+Enter the no of instruction lines : 2 
+
 Enter instruction line 1 : LOAD
+
 Enter instruction line 2 : STORE
+
 Symbol Table  :  
 
 
